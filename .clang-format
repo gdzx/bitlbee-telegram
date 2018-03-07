@@ -1,0 +1,9 @@
+---
+BasedOnStyle: LLVM
+AllowShortIfStatementsOnASingleLine: false
+AlwaysBreakAfterReturnType: AllDefinitions
+BreakBeforeBraces: Linux
+IndentWidth: 8
+TabWidth: 8
+UseTab: Always
+...
